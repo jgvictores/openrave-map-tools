@@ -1,2 +1,2 @@
-# openrave-map-tools
-OpenRAVE map tools
+# openrave-tools
+OpenRAVE tools
