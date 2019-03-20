@@ -1,2 +1,3 @@
-lxml
 numpy
+lxml # openrave-map-from-csv.py
+numpy-stl # openrave-pp-to-stl.py
