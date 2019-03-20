@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 '''
-python-picker-loader.py program
+openrave-pp-to-stl.py program
 
 Authors: Raul Fernandez-Fernandez
 
